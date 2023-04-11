@@ -4,8 +4,8 @@ I work for a company called Codesound, where I develop all kinds of apps and too
 Want to talk? [pieter@codesound.nl](mailto:pieter@codesound.nl)
 
 #### What I do ❤️
-- App development in Xamarin/Maui
-- API/Webapps in Laravel
-- Frontends in Vue
+- App development in Xamarin & Maui
+- API/Webapps with PHP, Laravel & sometimes NodeJS
+- Frontends with Vue, Sass & Tailwind
 - Concepting and prototyping
 - Sometimes designs
