@@ -1,11 +1,19 @@
 ### Hi, my name is Pieter 👋
-I work for a company called Codesound, where I develop all kinds of apps and tools. I also work for Simpos, where I manage the development of POS-software and other payments solutions.
 
-Want to talk? [pieter@codesound.nl](mailto:pieter@codesound.nl)
+#### I work for
+- Mediahuis Technology & Product Studio 🇧🇪
+- Timodo Ticketing 🇳🇱
+- Simpos Payment Solutions 🇳🇱
 
-#### What I do ❤️
-- App development in Xamarin & SwiftUI
-- API/Webapps with PHP, Laravel & sometimes NodeJS & Python
-- Frontends with Vue, Sass & Tailwind
+#### What I do
+- App development in React Native
+- API/Webapps with Laravel
+- Frontends with Vue, React & Tailwind
 - Concepting and prototyping
 - Sometimes designs
+
+##### Other things
+NodeJS, Socket.io, Python, Swift, C#, Photoshop, Filament, Xamarin, SwiftUI
+
+#### Contact
+Want to talk? [pieter@codesound.nl](mailto:pieter@codesound.nl)
